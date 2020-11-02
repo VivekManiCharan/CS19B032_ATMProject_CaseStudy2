@@ -13,6 +13,7 @@ I have used Encapsulation in this Case Study
 
 1. Main Class :
 
+
     I have taken example of 10 Accounts.
     
     It asks the Customer Account number , if it is a valid Number then it asks Pin. After Pin Validation it lists some actions Shown below         that a Customer wants.
@@ -28,7 +29,10 @@ I have used Encapsulation in this Case Study
 
     For each action performed by Customer will be Stored By TransactionEntry Class. The data will be Sent through Account Class.
 
+
+
 2.Account Class :
+
 
   It has following Methods
 
@@ -40,6 +44,7 @@ I have used Encapsulation in this Case Study
     5.Methods to Acesss private Vrilables like Account Number ,Name , Pin, Current Balance
 
     Mainly it has The Amount of Funds present in the ATM.
+
 
 3.TransactionEntry Class :
 
