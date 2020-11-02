@@ -15,17 +15,18 @@ I have used Encapsulation in this Case Study
 
     I have taken example of 10 Accounts.
     
-    It asks the Customer Account number , if it is a valid Number then it asks Pin. After Pin Validation it lists some actions Shown below that a Customer wants.
+    It asks the Customer Account number , if it is a valid Number then it asks Pin. After Pin Validation it lists some actions Shown below         that a Customer wants.
     1. Deposit 
     2. Withdraw
-    3.Fast Cash
+    3. Fast Cash
     4. Display Transaction
-    5.Current Balance
-    6.Change Pin
-    7.Cancel Transaction
+    5. Current Balance
+    6. Change Pin
+    7. Cancel Transaction
+    
     For each action a method is Created in Account Class
 
-For each action performed by Customer will be Stored By TransactionEntry Class. The data will be Sent through Account Class.
+    For each action performed by Customer will be Stored By TransactionEntry Class. The data will be Sent through Account Class.
 
 2.Account Class :
 
