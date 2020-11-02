@@ -1,0 +1,177 @@
+===========================================
+             <<< Welcome >>>               
+===========================================
+
+Enter your Account Number
+41312
+Invalid Account Number Entered
+===========================================
+             <<< Welcome >>>               
+===========================================
+
+Enter your Account Number
+41301
+Hello Ravi
+Please enter your pin
+11111
+
+Wrong Pin Entered
+Please enter your pin Again
+1111
+
+Select  any response Ravi
+1. Deposit
+2. Withdraw
+3.Fast Cash
+4. Display Transactions
+5.Current Balance
+6.Change Pin
+7.Cancel Transaction
+3
+
+Select  any response Ravi
+1.500 Rs
+2.1000 Rs
+3.2000 Rs
+4.5000 Rs
+5.10000 Rs
+5
+Transaction Successful
+Amount withdrawn :10000.0 (in Rupees)
+Time : Mon Nov 02 17:25:12 IST 2020
+===========================================
+             <<< Welcome >>>               
+===========================================
+
+Enter your Account Number
+41302
+Hello Rahul
+Please enter your pin
+1112
+
+Select  any response Rahul
+1. Deposit
+2. Withdraw
+3.Fast Cash
+4. Display Transactions
+5.Current Balance
+6.Change Pin
+7.Cancel Transaction
+3
+
+Select  any response Rahul
+1.500 Rs
+2.1000 Rs
+3.2000 Rs
+4.5000 Rs
+5.10000 Rs
+2
+Transaction Failed
+Insufficient Funds in your Account
+===========================================
+             <<< Welcome >>>               
+===========================================
+
+Enter your Account Number
+41302
+Hello Rahul
+Please enter your pin
+1112
+
+Select  any response Rahul
+1. Deposit
+2. Withdraw
+3.Fast Cash
+4. Display Transactions
+5.Current Balance
+6.Change Pin
+7.Cancel Transaction
+6
+Enter New Pin
+1116
+Enter New Pin again to confirm
+1115
+Entered Pins are not Same
+ Transaction Unsuccessful
+
+
+       <<< ThankYou, Visit Again >>      
+
+
+
+===========================================
+             <<< Welcome >>>               
+===========================================
+
+Enter your Account Number
+41302
+Hello Rahul
+Please enter your pin
+1112
+
+Select  any response Rahul
+1. Deposit
+2. Withdraw
+3.Fast Cash
+4. Display Transactions
+5.Current Balance
+6.Change Pin
+7.Cancel Transaction
+6
+Enter New Pin
+1111
+Enter New Pin again to confirm
+1111
+
+
+       <<< ThankYou, Visit Again >>      
+
+
+
+===========================================
+             <<< Welcome >>>               
+===========================================
+
+Enter your Account Number
+41302
+Hello Rahul
+Please enter your pin
+1111
+
+Select  any response Rahul
+1. Deposit
+2. Withdraw
+3.Fast Cash
+4. Display Transactions
+5.Current Balance
+6.Change Pin
+7.Cancel Transaction
+4
+Account Name: Rahul
+Account Number: 41302
+***********************************************
+---------------------------------------------
+Entry Type : Deposit
+Reason :initial Deposit
+Amount: 500.000Rs
+Current Balance : 500.000Rs 
+Sun Nov 01 13:22:46 IST 2020
+---------------------------------------------
+---------------------------------------------
+Entry Type : Withdraw Unsuccessful 
+Reason :Insufficient Funds in your Account
+Amount: 1000.000Rs
+Current Balance : 500.000Rs 
+Mon Nov 02 17:25:12 IST 2020
+---------------------------------------------
+---------------------------------------------
+Entry Type : Pin Change
+Amount: 0.000Rs
+Current Balance : 500.000Rs 
+Mon Nov 02 17:25:12 IST 2020
+---------------------------------------------
+***********************************************
+
+
+       <<< ThankYou, Visit Again >>      
+
