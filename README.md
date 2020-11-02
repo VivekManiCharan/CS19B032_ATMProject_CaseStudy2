@@ -37,11 +37,11 @@ I have used Encapsulation in this Case Study
   It has following Methods
 
   First transaction of the Customer while creating Account
-    1.Method to deposit Money
-    2.Method to withdraw Money
-    3.Method to Change Pin
-    4.Method to Change Pin
-    5.Methods to Acesss private Vrilables like Account Number ,Name , Pin, Current Balance
+    1. Method to deposit Money
+    2. Method to withdraw Money
+    3. Method to Change Pin
+    4. Method to Change Pin
+    5. Methods to Acesss private Vrilables like Account Number ,Name , Pin, Current Balance
 
     Mainly it has The Amount of Funds present in the ATM.
 
@@ -50,7 +50,7 @@ I have used Encapsulation in this Case Study
 
     It has two Methods namely addEntry and displayEntry
 
-    1.addEntry Method saves the data of Every action performed by the Customer.
-    2.displayEntry Method Displays The Every action performed by the Customer.
+    1. addEntry Method saves the data of Every action performed by the Customer.
+    2. displayEntry Method Displays The Every action performed by the Customer.
     
 ThankYou
